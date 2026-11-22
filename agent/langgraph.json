@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "data_platform_agent": "./app/graph.py:graph"
+  }
+}

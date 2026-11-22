@@ -1,0 +1,4 @@
+langgraph>=1.0,<2.0
+langgraph-cli[inmem]>=0.4,<1.0
+langchain-openai>=1.0,<2.0
+langfuse>=5.0,<6.0
